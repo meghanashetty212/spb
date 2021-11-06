@@ -1,0 +1,131 @@
+<html>
+    <head>
+        <title>Awards </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <meta charset="utf-8">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </head>
+    <style>
+        body{
+            background-image: url(https://media.istockphoto.com/photos/abstract-blurred-simple-beige-and-tan-color-background-with-white-picture-id1046544350?k=6&m=1046544350&s=612x612&w=0&h=WQ8A-i0qxFJIuPM_4SNoodftAj1K_axuwMlxLEu0ogI=);
+            background-repeat: no-repeat;
+            background-size: cover; 
+            padding-top: 60px;
+            padding-right: 100px;
+          
+         
+    
+
+        }
+        .container h1{
+            font-style:initial;
+            padding-top: 10px;
+            padding-left: 20px;
+            text-align: center;
+            padding-bottom: 15px;
+        }
+        .container p{
+            font-size: large;
+            padding-left: 400px;
+            padding-right: 50px;
+            padding-top: 0px;
+            
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwZ4HN31lHP8vw4IL1-fViyqngHN1zs-NxvFbBV3ag4CFXNbpDTj8C-wysGmUwIqWV-U&usqp=CAU);
+            background-repeat: no-repeat;
+            background-size: 350px;
+        }
+        .container h3{
+          padding-bottom: 30px;
+            padding-left: 10px;
+            font-size: 30px;
+            
+            
+        }
+        div.c{
+      border: 5px solid black;
+      margin: 20px;
+  padding: 50px;
+  background-color:antiquewhite;
+  margin-right: 200px;
+  margin-left: 5px;
+  border-radius: 8px;
+    }
+    </style>
+    <body>
+        <div class="container">
+
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+          
+  
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\SPB.html">HOME</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\about.html">ABOUT</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\images.html">IMAGES</a>
+                  </li>
+                 
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\awards.html">AWARDS</a>
+                  </li>
+              
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                      SONGS
+                    </a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\kannada.html">KANNADA</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\hindi.html">HINDI</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\tamil.html">TAMIL</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\malayalam.html">MALAYALAM</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\telugu.html">TELUGU</a>
+                    </div>
+                  </li>
+                </ul>
+              </nav>
+              <br>
+            <h1>AWARDS WON BY SPB</h1>
+            <p>
+                S. P. Balasubrahmanyam<br>
+                Actor,Music Department,Playback Singer<br>
+                Born - June 04, 1946 <br><br>
+S. P. Balasubrahmanyam has won 12 awards - Filmfare Award in 1990, Filmfare Award - Telugu in 2007, Filmfare Award - Tamil in 2008, Filmfare Award - Kannada in 2011, National Award in 1996, National Award in 1995, National Award in 1988, National Award in 1983, National Award in 1981, National Award in 1979, Filmfare Award South in 1987 and Filmfare Award South in 1984. <br><br><br>
+ <h3>Balasubrahmanyam received four doctorates</h3>
+ SP Balasubrahmanyam was one of the most respected and honoured musicians in the country. The classical musician had received his first Honorary Doctorate in the year 1999, from the Potti Srimulu University in Andhra Pradesh. In the year 2009, he received the second and third Honorary Doctorates from Sathyabama University and Andhra University respectively. In the year 2010, SP Balasubrahmanyam was awarded another doctorate from the JNTU institution in Ananthapur.<br><br>
+
+            </p>
+            <div class="c"><h4>Filmfare Awards<br><br>
+1990-Best Playback Singer - Male
+Maine Pyar Kiya<br>
+2007-Best Playback Singer - Male
+Sri Ramadasu<br>
+2008-Best Playback Singer - Male
+Mozhi<br>
+2011-Best Playback Singer - Male
+Aptharakshaka<br>
+1987-For Outstanding Achievement As A Playback Singer
+1984-Lifetime Achievement Award<br><br>
+National Awards<br><br>
+1996-Best Male Playback Singer
+Minsara Kanavu<br>
+1995-Best Male Playback Singer
+Sangeetha Sagara Ganayogi Panchakshara Gavai<br>
+1988-Best Male Playback Singer
+Rudraveena<br>
+1983-Best Male Playback Singer
+Sagara Sangamam<br>
+1981-Best Male Playback Singer
+Ek Duuje Ke Liye<br>
+1979-Best Male Playback Singer
+Sankarabharanam
+</h4></div>
+
+
+    </body>
+</html>
