@@ -1,0 +1,170 @@
+<html>
+<head>
+  <title>Images</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<style>
+    body{
+        background-image: url(https://media.istockphoto.com/photos/abstract-blurred-simple-beige-and-tan-color-background-with-white-picture-id1046544350?k=6&m=1046544350&s=612x612&w=0&h=WQ8A-i0qxFJIuPM_4SNoodftAj1K_axuwMlxLEu0ogI=);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 60px;
+        padding-left: 0vw;
+        padding-right: 0vw;
+    }
+    div.b{
+      border: 5px solid black;
+      margin: 40px;
+  padding: 50px;
+  background-color:antiquewhite;
+  margin-right: 6px;
+  margin-left: 6px;
+    }
+</style>
+<body>
+
+<div class="container">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+          
+  
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="C:\xampp\htdocs\SPB\SPB.html">HOME</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="C:\xampp\htdocs\SPB\about.html">ABOUT</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="C:\xampp\htdocs\SPB\images.html">IMAGES</a>
+          </li>
+         
+          <li class="nav-item">
+            <a class="nav-link" href="C:\xampp\htdocs\SPB\awards.html">AWARDS</a>
+          </li>
+      
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              SONGS
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="C:\xampp\htdocs\SPB\kannada.html">KANNADA</a>
+              <a class="dropdown-item" href="C:\xampp\htdocs\SPB\hindi.html">HINDI</a>
+              <a class="dropdown-item" href="C:\xampp\htdocs\SPB\tamil.html">TAMIL</a>
+              <a class="dropdown-item" href="C:\xampp\htdocs\SPB\malayalam.html">MALAYALAM</a>
+              <a class="dropdown-item" href="C:\xampp\htdocs\SPB\telugu.html">TELUGU</a>
+            </div>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="b"><img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/20/920149-spb-health-critical-final.png" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdygim-sUe4hvLPkKjh6SRYMVwm2jEU2TFAg&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="350"> 
+
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZbnt3hxPauxPzJYf8MmVlRXyY8IApXAS4g&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhgBAY5S6ofrC-t1OjLZX8BOLzXJLG-Gt9g3Yy0H4WRiDR-scBQe8UOscsgPY1jIL7pE&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+     
+
+     
+
+      <img src="https://c.ndtvimg.com/2020-09/qqasog0o_bala-instagram_625x300_25_September_20.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+
+      <img src="https://static.toiimg.com/thumb/msid-77564458,width-800,height-600,resizemode-75,imgsize-132304,pt-32,y_pad-40/77564458.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+        
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW1n5df2oPvGvf7eyPiwePeAeluFhlQbVe8W_dU4ZSQYKReDMYxAM9okucuYv4dVrZIA&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="250" height="200"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_vs0kegoAqazLb_Co59K6hHEn441Djcgsw&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://images.news18.com/ibnlive/uploads/2020/09/1601033999_eiwaixnuwaihw7h_copy_1200x800.jpeg?impolicy=website&width=534&height=356" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+ 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCA7uU9cJgcPukT7kK1zYdPZ54tx8v3B0cw&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  
+
+ 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8ult1xAoUeTB_9_EiOQl0af0M0q76RNzAQ&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+  
+
+  <img src="https://www.thehindu.com/entertainment/music/gpd2ir/article30998377.ece/alternates/FREE_435/hyf06Balu-with-Sathyamjpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgpbXUbqgtwHSSJlf77tS_rEpAmbvczB_8YA&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/9/10/original/SPB_EPS123n.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+
+  <img src="https://img.dtnext.in/Images/Article/201611030940205009_SPBs-masterly-voice-a-tonic-for-all-seasons_SECVPF.gif" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://i1.wp.com/rotarynewsonline.org/wp-content/uploads/2020/10/7SPB.jpg?ssl=1" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://www.thehindu.com/entertainment/movies/eypnli/article32696714.ece/alternates/FREE_435/HYM26SPB" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiL2DIYzhI24PY6HHftuEhDiC03NCWBW79jA&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFToIPuJJel2sSiZyfWWTt4h-iVFWhXnJ3qQ&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://static.theprint.in/wp-content/uploads/2020/09/SPB-696x392.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+
+  <img src="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/SPB_1200-4.jpg?itok=VqkNw0xx" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://images.newindianexpress.com/uploads/user/ckeditor_images/article/2020/9/26/FRGRTH.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZkmlFbaYIFUnS8abnPz0dRXqoqYJkvTugw&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+
+  <img src="https://www.mwallpapers.com/photos/celebrities/s-p-balasubrahmanyam/s-p-balasubrahmanyamhd-wallpapers-desktop-background-android-iphone-1080p-4k-m7qor.jpg?v=1601021117" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://telanganatoday.com/wp-content/uploads/2019/12/SPB.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFtDIvHCAcq3lhtjvaZvM2Yvzx8RSdPw3_7shpfTqLwF9cEJXm4UhViEDZ8pMg18Y-vk&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaRCRvklYlYSbNRibGAPIV6ckdEiBsWPd6vGT-qMejvw9yePBZAoqdlIdm_KLDEz-RU4&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://cdn.gulte.com/wp-content/uploads/2020/09/Eivub7FVoAArogS.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/26/w1200X800/WhatsApp_Image_2020-09-26_at_09.jpeg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://www.greatandhra.com/newphotos8/191601032957.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://2.bp.blogspot.com/-LcVHEzMPZOg/WNEs2stWvYI/AAAAAAAAAFE/-z1XXCaN8g0A4IL3mllPwALOREinoQcMQCLcB/s1600/Ilayaraja-spb-70s-picture.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://timesofindia.indiatimes.com/thumb/msid-78319739,width-1200,height-900,resizemode-4/.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZEK-xrLstKpp0OYuSKbRsI1_OK4M2evBEQ&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://img.onmanorama.com/content/dam/mm/en/entertainment/music/images/2020/9/25/spb-malayalam-songs.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://www.thehindu.com/entertainment/movies/lhbenn/article32701525.ece/ALTERNATES/LANDSCAPE_615/spb" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://tamil.oneindia.com/img/2020/09/spb-statue4-1601293885.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://static.toiimg.com/thumb/msid-77560243,imgsize-749367,width-800,height-600,resizemode-75/77560243.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://img.onmanorama.com/content/dam/mm/en/entertainment/music/images/2020/9/26/yesudas-spb.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://images.malayalam.indianexpress.com/2020/09/spb-sp-balasubrahmanyam-childhood-young-age-photos.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUvjSR54OiC-scKnQX46UOjWymVC9ItGvEA&usqp=CAU" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> 
+
+  <img src="https://www.sify.com/uploads/rbdlWpahibeff.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="200"> 
+
+  <img src="https://wallpapercave.com/wp/wp7391554.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"> </div>
+
+
+</div>
+
+</body>
+</html>
