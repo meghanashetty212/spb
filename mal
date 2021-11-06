@@ -1,0 +1,92 @@
+<html>
+    <head>
+        <title>Malayalam Songs</title>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <meta charset="utf-8">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </head>
+    <style>
+        body{
+            padding-top: 60px;
+            padding-right: 320px;
+            background-image: url(https://i.pinimg.com/736x/bc/53/74/bc53745d57bab8080e975d666d5e3240.jpg);
+            background-repeat: no-repeat;
+            background-size: cover; 
+            padding-left: 150px;
+        }
+        .container h3, p{
+            padding-top: 40px;
+            font-size: 20px;
+            color: #fff;
+        }
+        a:hover,link,:active {
+            color:white;
+        }
+    </style>
+    <body>
+        <div class="container">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+          
+  
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\SPB.html">HOME</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\about.html">ABOUT</a>
+                  </li>
+      
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\images.html">IMAGES</a>
+                  </li>
+                 
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\awards.html">AWARDS</a>
+                  </li>
+              
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                      SONGS
+                    </a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\kannada.html">KANNADA</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\hindi.html">HINDI</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\tamil.html">TAMIL</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\malayalam.html">MALAYALAM</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\telugu.html">TELUGU</a>
+                    </div>
+                  </li>
+                </ul>
+              </nav>
+            <h3>Top 10 Malayalam Song Lists</h3>
+            <p><a href="https://www.youtube.com/watch?v=F14YkKMp0rk" target="blank" >Parakotti</a>-Album: Enikku Njan Swantham,
+              Released: 1967<br>
+              <a href="https://www.youtube.com/watch?v=IQAOnpFfdPM" target="blank" >Oottippattanam </a>-Movie: Kilukkam,
+              Released: 1991 <br>
+              <a href="https://www.youtube.com/watch?v=zFPJLAlENCI" target="blank" >Ezhaazhi Neenthi</a>-Album: Pidakkozhi Koovunna Noottaandu,
+              Released: 1994<br>
+              <a href="https://www.youtube.com/watch?v=3Movx68XrAY" target="blank" >Thappum Kotti</a>-Album: Oru Snehopakaram
+              Released: 1999<br>
+              <a href="https://www.youtube.com/watch?v=wCIVhoHcV0w" target="blank" >tharapadham</a>-Movie: Anaswaram,Released: 1991<br>
+              <a href="https://www.youtube.com/watch?v=qt0jaDaRv-Y" target="blank" >Paal Nilavile</a>-Movie:Butterflies,Released: 2014<br>
+              <a href="https://www.youtube.com/watch?v=uSXtbFgR5hQ" target="blank" >Ayya Sami </a>-Movie:Kinar,Released: 2018 <br>
+              <a href="https://www.youtube.com/watch?v=wcP4NR7bK-E" target="blank" > Manje Vaa </a>-Movie:Thusharam,Released: 1979<br>
+              <a href="https://www.youtube.com/watch?v=7e-yaqH9LHc" target="blank" >Kalikkalam</a>-Movie:Ramji Rao Speaking, Released: 1989 <br>
+              <a href="https://www.youtube.com/watch?v=9chN8lDMHmM" target="blank" >Chirikondu </a>-Movie:Munnettam,Released:  1981<br>
+            
+            
+            </p>
+            <h3>For More Malayalam Songs of SPB </h3>
+ 
+            <a href="https://gaana.com/playlist/gaana-dj-best-of-spb-1" class="btn btn-info" role="button">CLICK HERE</a>
+        </div>
+    </body>
+</html>
+
+
+
