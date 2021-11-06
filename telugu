@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <title>Telugu Songs</title>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <meta charset="utf-8">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </head>
+    <style>
+        body{
+            padding-top: 60px;
+            padding-right: 320px;
+            background-image: url(https://i.pinimg.com/736x/bc/53/74/bc53745d57bab8080e975d666d5e3240.jpg);
+            background-repeat: no-repeat;
+            background-size: cover; 
+            padding-left: 150px;
+        }
+        .container h3, p{
+            padding-top: 40px;
+            font-size: 20px;
+            color: #fff;
+        }
+        a:hover,link,:active {
+            color:white;
+        }
+    </style>
+    <body>
+        <div class="container">
+            
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+          
+  
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\SPB.html">HOME</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\about.html">ABOUT</a>
+                  </li>
+      
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\images.html">IMAGES</a>
+                  </li>
+                 
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\awards.html">AWARDS</a>
+                  </li>
+              
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                      SONGS
+                    </a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\kannada.html">KANNADA</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\hindi.html">HINDI</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\tamil.html">TAMIL</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\malayalam.html">MALAYALAM</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\telugu.html">TELUGU</a>
+                    </div>
+                  </li>
+                </ul>
+              </nav>
+            <h3>Top 10 Telugu Song Lists</h3>
+            <p><a href="https://www.youtube.com/watch?v=RsuOontkJH4" target="blank" >Suvvi Suvvi </a>-Movie: Sippikkul Muthu,
+              Released: 1986<br>
+              <a href="https://www.youtube.com/watch?v=X8ka9aXFk0o" target="blank" > Matarani Mounamidi</a>-Movie: Maharshi<br>
+              <a href="https://www.youtube.com/watch?v=nnTIEkT3Mrc" target="blank" > Nigama Nigamantha</a>-Movie: Annamayya,
+              Released: 1997<br>
+              <a href="https://www.youtube.com/watch?v=x0tNKV0XYYM" target="blank" >Mate Rani </a>-Movie: Keladi Kannmanii,
+              Released: 1990<br>
+              <a href="https://www.youtube.com/watch?v=eFO3y_Q7i_Q" target="blank" > Premika Ne Pyar Se</a>-Album: Hum Se Hai Muqabala - Kadalan,
+              Released: 1994<br>
+              <a href="https://www.youtube.com/watch?v=fDaYAAiqXsM" target="blank" > Kattukuyilu</a>-Movie: Thalapathi,
+              Released: 1991<br>
+              <a href="https://www.youtube.com/watch?v=8kp0jV9Tw_4" target="blank" >Are Emaindhi </a>-Movie: Aradhana,
+              Released: 1987 <br>
+              <a href="https://www.youtube.com/watch?v=fAis0blHsNo" target="blank" >Ade Neevu </a>-Movie: Abhinandana,
+              Released: 1987<br>
+              <a href="https://www.youtube.com/watch?v=fRXTvpi0ybE" target="blank" >Balapam Patti </a>-Movie: Bobbili Raja,
+              Released: 1990<br>
+              <a href="https://www.youtube.com/watch?v=llu_95dsR1w" target="blank" >Rajashekara </a>-Movie: Mugguru Monagallu,
+              Released: 2014 <br>
+    </p>
+
+
+            <h3>For More Telugu Songs of SPB </h3>
+ 
+ <a href="https://gaana.com/playlist/phanikumar-bxgdb-spbaluoldtelugu" class="btn btn-info" role="button">CLICK HERE</a>
+        </div>
+    </body>
+</html>
