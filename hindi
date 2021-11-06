@@ -1,0 +1,91 @@
+<html>
+    <head>
+        <title>hindi songs</title>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <meta charset="utf-8">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </head>
+    <style>
+        body{
+            padding-top: 60px;
+            padding-right: 320px;
+           
+           
+            background-image: url(https://i.pinimg.com/736x/bc/53/74/bc53745d57bab8080e975d666d5e3240.jpg);
+            background-repeat: no-repeat;
+            background-size: cover; 
+            padding-left: 150px;
+        }
+        .container h3, p{
+            padding-left: 0px;
+            padding-top: 40px;
+            font-size: 20px;
+            color: #fff;
+        }
+        a:hover,link,:active {
+            color:white;
+        }
+    </style>
+    <body>
+        <div class="container">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+          
+  
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\SPB.html">HOME</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\about.html">ABOUT</a>
+                  </li>
+      
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\images.html">IMAGES</a>
+                  </li>
+                 
+                  <li class="nav-item">
+                    <a class="nav-link" href="C:\xampp\htdocs\SPB\awards.html">AWARDS</a>
+                  </li>
+              
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                      SONGS
+                    </a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\kannada.html">KANNADA</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\hindi.html">HINDI</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\tamil.html">TAMIL</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\malayalam.html">MALAYALAM</a>
+                      <a class="dropdown-item" href="C:\xampp\htdocs\SPB\telugu.html">TELUGU</a>
+                    </div>
+                  </li>
+                </ul>
+              </nav>
+            <h3>Top 10 Hindi Song Lists</h3>
+<p><a href="https://www.youtube.com/watch?v=Kxd6po6wL4w" target="blank" > Mere Rang Mein Rangne Wali</a>-Movie: Maine Pyar Kiya,
+    Released: 1989<br>
+    <a href="https://www.youtube.com/watch?v=gIODEFkvjTA" target="blank" >Pehla Pehla Pyar Hai </a>-Movie: Hum Aapke Hain Koun..!,
+    Released: 1994<br>
+    <a href="https://www.youtube.com/watch?v=32tNhs2Vk8U" target="blank" >Dil Deewana </a>-Movie: Maine Pyar Kiya,
+    Released: 1989<br>
+    <a href="https://www.youtube.com/watch?v=oGKDBhdxn6c" target="blank" > Tere Mere Beech Mein</a>-Movie: Ek Duuje Ke Liye, Released: 1981<br>
+    <a href="https://www.youtube.com/watch?v=_LaKb3mnDUE" target="blank" > Dhikhtaana Dhikhtaana</a>-Movie: Hum Aapke Hain Koun..!,Released: 1994<br>
+    <a href="https://www.youtube.com/watch?v=Rq021lXIz9w" target="blank" > Mere Jeevan Saathi</a>-Movie: Ek Duuje Ke Liye,
+    Released: 1981<br>
+    <a href="https://www.youtube.com/watch?v=YKy-I7q5Kn0" target="blank" >Aaja Shaam Hone Aayi </a>-Movie: Maine Pyar Kiya,Released: 1989<br>
+    <a href="https://www.youtube.com/watch?v=Q8bKKn8gBVY" target="blank" > Mujhse Juda Hokar</a>-Movie: Hum Aapke Hain Koun..!,Released: 1994<br>
+    <a href="https://www.youtube.com/watch?v=PhkADyPektU" target="blank" > Aate Jate</a>-Movie: Yahudi <br>
+    <a href="https://www.youtube.com/watch?v=o8TrjD08r5k" target="blank" >Joote De Do Paise Le Lo </a>-Movie: Hum Aapke Hain Koun..!,
+    Released: 1994
+
+<h3>For More Hindi Songs of SPB </h3>
+ 
+ <a href="https://gaana.com/album/best-of-sp-balasubrahmanyam-hindi" class="btn btn-info" role="button">CLICK HERE</a>
+        </div>
+    </body>
+</html>
